@@ -1,0 +1,10 @@
+INHERIT: mkdocs.yml
+plugins:
+  - search
+  - social
+  - tags
+  - typeset
+  - meta
+  - privacy:
+    - external_links: true
+  - optimize
