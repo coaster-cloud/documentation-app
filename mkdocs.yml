@@ -1,6 +1,6 @@
 site_name: Coaster.Cloud
 site_description: Dokumentation zur Coaster Cloud App
-site_url: https://dev.doc.clanfamily.ddnss.de
+site_url: https://docs.coaster.cloud
 copyright: '&copy; 2021 ff. | Coaster.Cloud | <a href="#__consent">Change cookie settings</a>'
 site_dir: /var/www/html/
 dev_addr: 192.168.0.5:8000
@@ -11,22 +11,35 @@ theme:
   font: 
     text: Montserrat
   
-  logo: assets/images/CC_Logo_weiss.svg
-  favicon: assets/images/logo_coaster_cloud_square.png
+  logo: assets/images/logos/logo_coaster_cloud_weiss.svg
+  favicon: assets/images/logos/logo_coaster_cloud_square.png
   
   palette:
-    - scheme: default
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
       primary: deep purple
       accent: deep purple
       toggle:
-        icon: material/theme-light-dark
-        name: Switch to dark mode
-    - scheme: slate
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: slate
       primary: indigo
       accent: yellow
       toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      primary: deep purple
+      accent: deep purple
+      scheme: default
+      toggle:
         icon: material/brightness-4
-        name: Switch to light mode
+        name: Switch to system preference
 
   icon:
     admonition:

@@ -10,4 +10,4 @@ Hast Du Fragen zur App, zu Contribution oder andere Themen, dann wende Dich gern
 
 ## Discord
 
-Wir führen für unsere Kommunikation einen Discord Kanal. Unter diesem ([Discord Link](https://discord.gg/fUwjTaz5){:target="_blank"}) kannst Du dem Kanal beitreten.
+Wir führen für unsere Kommunikation einen Discord Kanal. Unter diesem ([Discord Link](https://discord.gg/v6sGGxKJ4J){:target="_blank"}) kannst Du dem Kanal beitreten.

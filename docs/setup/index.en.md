@@ -20,8 +20,8 @@ After installing our app, you _can_ create an account. The account is used to lo
 As a registered user we can offer you premium features like this:
 
 <figure markdown>
-![Profile Setup](../assets/images/setup_features_dark.png#only-dark)
-![Profile Setup](../assets/images/setup_features_light.png#only-light)
+![Profile Setup](../assets/images/setup/setup_features_dark.png#only-dark)
+![Profile Setup](../assets/images/setup/setup_features_light.png#only-light)
 
 Screenshot App
 </figure>

@@ -7,8 +7,8 @@ search:
 ---
 # Herzlich Willkommen zur coaster cloud App
 
-![coaster cloud Logo](assets/images/CC_Logo_weiss.svg#only-dark "coaster cloud App"){ align=right width=15% }
-![coaster cloud Logo](assets/images/CC_Logo_lila.svg#only-light "coaster cloud App"){ align=right width=15% }
+![coaster cloud Logo](assets/images/logos/logo_coaster_cloud_weiss.svg#only-dark "coaster cloud App"){ align=right width=15% }
+![coaster cloud Logo](assets/images/logos/logo_coaster_cloud_lila.svg#only-light "coaster cloud App"){ align=right width=15% }
 
 ## Deine Freizeitpark App
 
