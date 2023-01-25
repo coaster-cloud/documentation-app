@@ -19,10 +19,10 @@ You will find the free app
 <div class="grid cards" markdown>
 -  Android devices: Get it on Google Play [^1]<br>
     <figure markdown>
-    [![Logo Goolge Play](../assets/images/logo_playstore_google.png){ width=200px }](https://play.google.com/store/apps/details?id=cloud.coaster.mobile&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1){ :target="_blank"}
+    [![Logo Goolge Play](../assets/images/logos/logo_playstore_google.png){ width=200px }](https://play.google.com/store/apps/details?id=cloud.coaster.mobile&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1){ :target="_blank"}
     </figure>
 - and for Apple iOS: Download on the App Store [^2]<br>
-    <figure markdown>[![Logo App Store](../assets/images/logo_apple_download_black.svg){ width=200px }](https://apps.apple.com/us/app/coaster-cloud/id1568754220?itsct=apps_box_link&itscg=30200){:target="_blank"}
+    <figure markdown>[![Logo App Store](../assets/images/logos/logo_apple_download_black.svg){ width=200px }](https://apps.apple.com/us/app/coaster-cloud/id1568754220?itsct=apps_box_link&itscg=30200){:target="_blank"}
     </figure>
 </div>
 

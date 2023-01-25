@@ -9,7 +9,7 @@ Durch die Anpassungen unserer Datenbank werden die `Contributoren` in einer Aufl
 ## Beispiel
 
 <figure markdown>
-![Screenshot activities](../assets/images/contribution_activities_light.png)
+![Screenshot activities](../assets/images/contribution/contribution_activities_light.png)
 
 Contributions
 </figure>

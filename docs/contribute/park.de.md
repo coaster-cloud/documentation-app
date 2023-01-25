@@ -59,7 +59,7 @@ Als `Park` bezeichnen wir jeden Ort, an dem eine Freizeiteinrichtung eingerichte
     `Disneyland Paris` > [Google Maps Link](https://goo.gl/maps/4x59PDUgHtNSNkdU8){:target="_blank"}
 
     <figure markdown>
-    ![Google Maps Position](../assets/images/park_base_coordinates.png)
+    ![Google Maps Position](../assets/images/park/park_base_coordinates.png)
     Position: 48.86747 | 2.78357 (c) Google Maps
     </figure>
 

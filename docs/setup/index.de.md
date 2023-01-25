@@ -20,8 +20,8 @@ Nach der Installation unserer App, kannst Du einen Account erstellen. Der Accoun
 Als registrierter Nutzer können wir Dir nun folgende Funktoinen bereitstellen:
 
 <figure markdown>
-![Profil Funktionen](../assets/images/setup_features_dark.png#only-dark "Profil Funktionen")
-![Profil Funktionen](../assets/images/setup_features_light.png#only-light "Profil Funktionen")
+![Profil Funktionen](../assets/images/setup/setup_features_dark.png#only-dark "Profil Funktionen")
+![Profil Funktionen](../assets/images/setup/setup_features_light.png#only-light "Profil Funktionen")
 
 Screenshot App
 </figure>
