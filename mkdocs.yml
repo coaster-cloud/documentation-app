@@ -1,5 +1,5 @@
-site_name: Coaster.Cloud
-site_description: Dokumentation zur Coaster Cloud App
+site_name: coaster.cloud
+site_description: Dokumentation zur coaster.cloud App
 site_url: https://docs.coaster.cloud
 copyright: '&copy; 2021 ff. | Coaster.Cloud | <a href="#__consent">Change cookie settings</a>'
 site_dir: /var/www/html/
