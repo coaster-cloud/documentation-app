@@ -25,12 +25,47 @@ Einträge mit :new: sind neue Funktionen.
 
 ---
 
+## 1.21.1
+
+<small>:material-timeline: Feb 27, 2023</small>
+
+- :new: Activate new feature - badges :material-police-badge: | Go live: 05.03.2023
+
+---
+
+## 1.20.0
+
+<small>:material-timeline: Feb 24, 2023</small>
+
+- :material-code-json: Implement dependencies for upcoming feature
+- :material-code-json: Activate account based push notifications
+
+---
+
+## 1.19.0
+
+<small>:material-timeline: Jan 29, 2023</small>
+
+- :material-code-json: Update internal code for upcoming feature
+- :material-code-json: Cleanup internal code for upcoing feature
+
+---
+
+## 1.18.0
+
+<small>:material-timeline: Dec 18, 2022</small>
+
+- :flag_it: Italian language added
+- :flag_pt: Portugues language added
+
+---
+
 ## 1.17.0
 
 <small>:material-timeline: Dec 7, 2022</small>
 
-- French language added  :material-rocket-launch:{ .heart .rot }
-- Spanish language added :icon-flag-nl:
+- :flag_fr: French language added
+- :flag_nl: Spanish language added
 
 ---
 
@@ -47,8 +82,8 @@ Einträge mit :new: sind neue Funktionen.
 
 <small>:material-timeline: Sep 17, 2022</small>
 
-- UI adjustments
-- Stability improvements
+- :material-code-json: UI adjustments
+- :material-code-json: Stability improvements
 
 ---
 
