@@ -55,6 +55,22 @@ theme:
       bug: fontawesome/solid/robot
       example: fontawesome/solid/flask
       quote: fontawesome/solid/quote-left
+    badget:
+      welcome: badget/welcome
+      adventurer: badget/adventurer
+      bigdipper: badget/bigdipper
+      favoritepark: badget/favoritepark
+      grafparkula: badget/graf_parkula
+      inversionparty: badget/inversion_party
+      kiddiecoaster: bagdet/kiddie_coaster
+      mackmania: badget/mackmania
+      meteor: badget/meteor
+      metropolitan: badget/metropolitan
+      mountaineer: badget/mountaineer
+      paparazzi: badget/paparazzi
+      pirate: badget/pirate
+      shootingstar: badget/shootingstar
+      superrider: badget/superrider
 
   features:
     - announce.dismiss
@@ -117,6 +133,9 @@ nav:
   - Einstellen: setup/index.md
   - Funktionen:
     - feature/index.md
+    - feature/notification.md
+    - feature/archivements.md
+    - feature/waitingtimes.md
   - Mitmachen:
     - contribute/index.md
     - Park: contribute/park.md
@@ -187,7 +206,7 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
       options:
         custom_icons:
-          - overrides/.icon
+          - overrides/.icons
   - pymdownx.critic
   - pymdownx.caret
   - pymdownx.keys
