@@ -17,15 +17,15 @@ Made with :heartbeat:{.red .heartbeat} in good old Germany :flag_de:
 ## Important features
 
 - [x] Database and app is already available **without account registration**
-- [x] An account is only needed for `counting`, "community functions" or for active contribution
+- [x] An [account](install/#create-an-account) is only needed for `counting`, "community functions" or for active contribution
 - [x] A true community app with added value:
   - Ratings & photo contributions on locations and attractions
   - Group and personal statistics
-  - Personal archivements (Badgets)
-- [x] Multilingual: :flag_de: - :flag_gb: - :flag_nl: - :flag_fr: - :flag_es: - :flag_pt: (kein Google Translate)
-- [x] Waiting times  
-    <small> (only available theme parks) </small>
-- [x] Waiting times: Alarm notifications
+  - Personal archivements ([Badgets](feature/archivements.md))
+- [x] Multilingual: :flag_de: - :flag_gb: - :flag_nl: - :flag_fr: - :flag_es: - :flag_pt: (not with Google translate :smile: )
+- [x] [Waiting times](feature/waitingtimes.md)  
+    <small> ([only available theme parks](feature/waitingtimes/#available-waiting-times)) </small>
+- [x] Waiting times: [Alarm notifications](feature/waitingtimes/#waiting-time-alarm)
 - [x] Live environment map in the park  
     <small>(by Leaflet | &copy; OpenStreetMap)</small>
 - [x] Intelligent filter functions

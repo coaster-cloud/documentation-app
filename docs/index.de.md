@@ -21,15 +21,15 @@ Mit viel :heartbeat:{.red .heartbeat} programmiert in Deutschland :flag_de:
 ## Wichtige Funktionen
 
 - [x] Datenbank und App stehen bereits **ohne Registrierung** zur Verfügung
-- [x] Einen [Account](./install/index.de.md#account-erstellen) benötigt man zum "Counten", verschiedene "Community Funktionen" oder die aktive Datenpflege
+- [x] Einen [Account](install/index.de.md#account-erstellen) benötigt man zum "Counten", verschiedene "Community Funktionen" oder die aktive Datenpflege
 - [x] Eine echte Freizeitpark App mit Mehrwert für die Community:
   - Bewertungen & Fotobeiträge zu Freizeiteinrichtungen und Attraktionen
   - Gruppen- und persönlilche Statistiken
-  - Persönliche Erfolge (Badgets)
-- [x] Mehrsprachig erhältlich: :flag_de: - :flag_gb: - :flag_nl: - :flag_fr: - :flag_es: - :flag_pt: (kein Google Translate)
-- [x] Wartezeiten  
+  - Persönliche Erfolge ([Badgets](feature/archivements.md))
+- [x] Mehrsprachig erhältlich: :flag_de: - :flag_gb: - :flag_nl: - :flag_fr: - :flag_es: - :flag_pt: (kein Google Translate :smile: )
+- [x] [Wartezeiten](feature/waitingtimes)
   <small>(verfügbare Freizeitparks)</small>
-- [x] Wartezeiten Wecker
+- [x] [Wartezeiten Wecker](feature/waitingtimes#wartezeiten-alarm)
 - [x] Live Karte im Park  
   <small>(by Leaflet | &copy; OpenStreetMap)</small>
 - [x] Intelligente Filterfunktionen
