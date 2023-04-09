@@ -25,6 +25,32 @@ Einträge mit :new: sind neue Funktionen.
 
 ---
 
+## 1.24.0
+
+<small>:material-timeline: Apr 09, 2023</small>
+
+- :new: New option: Set your profile to "private mode"
+- :material-reload: Optimize picture slider to reduce transfered bytes and smoother sliding
+- :material-reload: Use timezones in feed actions
+
+## 1.23.0
+
+<small>:material-timeline: Mar 24, 2023</small>
+
+- :new: Implement Feed
+- :new: Add Tabs to toogle between subnavigation
+- :material-reload: Optimize content reload
+- :material-translate: Translation fixes
+- :material-language-markdown: Implement Markdown plugin for support
+- :material-trash-can-outline: Remove State Filter on Parks
+
+## 1.22.0
+
+<small>:material-timeline: Mar 08, 2023</small>
+
+- :material-code-json: Added progress info for "Achievements".
+- :material-code-json: Added support for US units for "Achievements"
+
 ## 1.21.1
 
 <small>:material-timeline: Feb 27, 2023</small>
