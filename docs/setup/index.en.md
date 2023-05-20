@@ -84,13 +84,13 @@ graph LR
 
 ### Supported languages in our app
 
-* :flag_gb: English (source)
-* :flag_de: German
-* :flag_nl: Dutch
-* :flag_fr: French
-* :flag_it: Italian
-* :flag_es: Spanish
-* :flag_pt: Portuguese
+- :flag_gb: English (source)
+- :flag_de: German
+- :flag_nl: Dutch
+- :flag_fr: French
+- :flag_it: Italian
+- :flag_es: Spanish
+- :flag_pt: Portuguese
 
 <figure markdown>
   ![CrowdIn.com activity](../assets/images/setup/crowdin_activity.en.png)

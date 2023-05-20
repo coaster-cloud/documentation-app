@@ -84,13 +84,13 @@ graph LR
 
 ### Unterstützte Sprachen in der App
 
-* :flag_gb: Englisch (source)
-* :flag_de: Deutsch
-* :flag_nl: Niederländisch
-* :flag_fr: Französisch
-* :flag_it: Italienisch
-* :flag_es: Spanisch
-* :flag_pt: Portugiesisch
+- :flag_gb: Englisch (source)
+- :flag_de: Deutsch
+- :flag_nl: Niederländisch
+- :flag_fr: Französisch
+- :flag_it: Italienisch
+- :flag_es: Spanisch
+- :flag_pt: Portugiesisch
 
 <figure markdown>
   ![CrowdIn.com Aktivitäten](../assets/images/setup/crowdin_activity.de.png)

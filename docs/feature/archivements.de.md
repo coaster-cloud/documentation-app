@@ -42,7 +42,7 @@ Um das "Spiel" mit der App ein wenig attraktiver zu gestalten, haben wir ein Sys
     ---
     Überlebe 10 verschiedene Halloween-Mazes.
 
-- :badget-metropolitain:{ .xl .middle } __Metropolitain__
+- :badget-metropolitan:{ .xl .middle } __Metropolitan__
 
     ---
     Lege 219 km (Pariser Metro) mit Attraktionen zurück.
@@ -52,7 +52,7 @@ Um das "Spiel" mit der App ein wenig attraktiver zu gestalten, haben wir ein Sys
     ---
     Lade Fotos für 25 verschiedene Attraktionen hoch. [Contribution](/contribute/)
 
-- :badget-shootingstar:{ .xl .middle } __Shooting Star__
+- :badget-shooting_star:{ .xl .middle } __Shooting Star__
 
     ---
     Schaue Dir 25 verschiedene Shows an.
@@ -82,9 +82,14 @@ Um das "Spiel" mit der App ein wenig attraktiver zu gestalten, haben wir ein Sys
     ---
     Fahre 100 Inversionen in Achterbahnen.
 
-- :badget-mountainer:{ .xl .middle } __Mountainer__
+- :badget-mountaineer:{ .xl .middle } __Mountainer__
 
     ---
     Erreiche eine Höhe von mind. 70 Meter.
+
+- Und viele mehr!
+
+    ---
+    Entdecke alle sichtbaren Erfolge in der App unter Profil: "Meine Erfolge".
 
 </div>

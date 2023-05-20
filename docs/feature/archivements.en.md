@@ -42,7 +42,7 @@ To make the "game" with our app a little more attractive, we have implemented a 
     ---
     Survive at least 10 visits of different Halloween Mazes.
 
-- :badget-metropolitain:{ .xl .middle } __Metropolitain__
+- :badget-metropolitan:{ .xl .middle } __Metropolitain__
 
     ---
     Cover 219 km (Paris Metro) with attractions.
@@ -52,7 +52,7 @@ To make the "game" with our app a little more attractive, we have implemented a 
     ---
     Upload at least 25 pictures of different attractions to our app. [Contribution](/contribute/)
 
-- :badget-shootingstar:{ .xl .middle } __Shooting Star__
+- :badget-shooting_star:{ .xl .middle } __Shooting Star__
 
     ---
     Enjoy at leat 25 different Shows.
@@ -82,9 +82,14 @@ To make the "game" with our app a little more attractive, we have implemented a 
     ---
     Ride coasters with at least 100 inversions.
 
-- :badget-mountainer:{ .xl .middle } __Mountainer__
+- :badget-mountaineer:{ .xl .middle } __Mountainer__
 
     ---
     Cover a ride with a hight of at least 70m (~229,65 ft).
+
+- And many more...
+
+    ---
+    Get all visible archivements in our overview on your profile: "Archivements"
 
 </div>

@@ -28,9 +28,6 @@ Of course, it makes sense to keep an eye on the attraction when waiting times de
     - But stay realistic - the app can't make the queue shorter :)
 
     As soon as the waiting time reaches your forced time, you will get a [notification](/feature/notification)!
-    <video controls autobuffer muted>
-        <source src="/assets/videos/function/function_waitingtimes_alarm_en.mp4" type="video/mp4" >
-    </video>
 
 <small>For the introduction of the function, initially only the setting of an alarm is possible. An overview of the set alarms or the deletion is currently not yet supported. The set alarms expire after midnight at the latest.</small>
 

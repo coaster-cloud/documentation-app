@@ -29,9 +29,6 @@ In der aktuellen Ansicht findest du zum einen die zuletzt erittelte Wartezeit. H
     - Bleib aber realistisch - die App kann die Warteschlange nicht kürzer machen :)
 
     Sobald die Wartezeit Deine forcierte Zeit erreicht hat, bekomst Du eine [Benachrichtigung](/feature/notification)!
-    <video controls autobuffer muted>
-        <source src="/assets/videos/function/function_waitingtimes_alarm_de.mp4" type="video/mp4" >
-    </video>
 
 <small>Zur Einführung der Funktion ist zunächst nur das setzen eines Alarms möglich. Eine Übersicht der gesetzten Alarme oder das Löschen wird derzeit noch nicht unterstützt. Spätestens nach Mitternacht verfallen die gesetzt Alarme.</small>
 
