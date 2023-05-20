@@ -1,0 +1,43 @@
+a {
+    --md-typeset-a-color:        orange;
+}
+
+.red {
+    color: crimson;
+}
+
+.green {
+  color:  #00c400;
+}
+
+.golden {
+  color: gold;
+}
+
+@media screen and (max-width: 990px) {
+  video {
+    max-height: 500px;
+    max-width: auto;
+  }
+}
+
+@media screen and (min-width: 992px) { 
+  video {
+    max-height: 720px;
+    max-width: 360px;
+    height: 720px;
+    width: 360px;
+  }
+}
+
+@keyframes heartbeat {
+    0%, 40%, 80%, 100% {
+      transform: scale(1);
+    }
+    20%, 60% {
+      transform: scale(1.15);
+    }
+  }
+  .heartbeat {
+    animation: heartbeat 1000ms infinite;
+  }
