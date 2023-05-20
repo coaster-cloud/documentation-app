@@ -65,4 +65,36 @@ Screenshot App
 
 </div>
 
+## Multilingual
+
+Unsere coaster.cloud App ist mehrsprachig verfügbar. Die Multilingualen Übersetzungen werden hierbei auch durch unsere Community beigetragen. Mit Hilfe von [crowdin.com](https://crowdin.com/project/coastercloud) können wir gemeinsam an einer Übersetzung arbeiten. Die größte Herausforderung dabei sind die speziellen Begriffe, die wir in dieser Branche nutzen. Auch Du kannst bei der Übersetzung helfen.
+
+Als Übersetzer kannst Du die von Dir unterstützte Sprache bei [crowdin.com](https://crowdin.com/project/coastercloud) aktivieren. Die Basis der Sprache ist britisches englisch. In einer sehr einfachen "links / rechts" Tabelle und mit AI Unerstützung, kannst Du nun so viel Übersetzen wie Du gerade zeit hast.
+
+Der Clou an [crowdin.com](https://crowdin.com/project/coastercloud) : Nach dem Übersetzen steht Deine Übersetzung in einem "Review Mode". Das bedeutet, dass die Übersetzung nicht sofort Live geschaltet wird, sondern von einer weiteren Person kontrolliert wird. Wenn Du eine Übersetzung von jemand anderen siehst und diese auch passend findest - mach doch einfach einen Haken dran. Daran merkt der Reviewer schneller, dass diese Übersetzung korrekt ist.
+
+``` mermaid
+graph LR
+  A[translation] --> B{is reviewd};
+  B -->|no| C[need translation];
+  C --> D[review];
+  D --> B;
+  B ---->|yes| E[go live!];
+```
+
+### Unterstützte Sprachen in der App
+
+* :flag_gb: Englisch (source)
+* :flag_de: Deutsch
+* :flag_nl: Niederländisch
+* :flag_fr: Französisch
+* :flag_it: Italienisch
+* :flag_es: Spanisch
+* :flag_pt: Portugiesisch
+
+<figure markdown>
+  ![CrowdIn.com Aktivitäten](../assets/images/setup/crowdin_activity.de.png)
+  <figcaption>CrowdIn.com Aktivitäten</figcaption>
+</figure>
+
 [^1]: Das Gruppenfeature steht aktuell nur BETA Testern und ausgesuchten Partnern zur Verfügung
