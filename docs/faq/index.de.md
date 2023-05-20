@@ -9,5 +9,5 @@ In unserem FAQ Bereich wollen wir Fachbergriffe erklären. So wirst auch Du mit 
 
 Schau Dir die Details in den Sektionen an:
 
-* [Fahrlelemente](./elements.md)
-* [Rückhaltesysteme](./restraint.md)
+- [Fahrlelemente](./elements.md)
+- [Rückhaltesysteme](./restraint.md)
