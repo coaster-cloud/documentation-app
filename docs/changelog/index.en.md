@@ -29,6 +29,59 @@ The changes in the app will only be available in English. Since the information 
 
 ---
 
+## 1.30.0
+
+<small>:material-timeline: September 04, 2023</small>
+
+- :material-code-json: Add attraction elements
+- :material-code-json: Add number of inversions
+- :material-code-json: Add sorting for ridden attractions
+- :material-reload: Update app dependencies to support next Android version
+
+## 1.29.1
+
+<small>:material-timeline: August 28, 2023</small>
+
+- :new: Add waitingtime diagram to attraction detail page
+- :new: Add sheet modal for subscribe to watingtime
+- :new: Add sheet modal for park map
+- :new: Add sheet modal for counts
+- :new: Add sheet modal for rides, trips and statistics
+- :new: Add icon & button to top attractions
+- :new: Add attraction tags to attributes
+- :new: Add park nearby feature to startpage
+- :material-reload: Update App dependencies
+- :material-reload: Update translations
+- :material-reload: Redesign sing in modal
+- :material-reload: Redesign attraction detail page
+- :material-reload: Merge attractions into park view
+- :material-trash-can-outline: Remove subnavigation to attractions
+- :material-code-json: Bugfix release & stability improvements
+
+## 1.29.0
+
+<small>:material-timeline: August 25, 2023</small>
+
+- :new: Currently visited park is listed on the homepage (geolocation)
+- :new: Ride statistics are now displayed in the attraction
+- :new: Attractions are now listed directly at the park
+- :material-reload: Various design adjustments
+
+## 1.28.1
+
+<small>:material-timeline: August 22, 2023</small>
+
+- :material-code-json: Bugfix release & stability improvements
+- :material-code-json: POC sponsoring modal
+
+## 1.28.0
+
+<small>:material-timeline: May 20, 2023</small>
+
+- :material-reload: Update App dependencies
+- :new: Set your custom category on attractions
+- :material-translate: Improve waitingtime translations
+
 ## 1.27.0
 
 <small>:material-timeline: May 12, 2023</small>
